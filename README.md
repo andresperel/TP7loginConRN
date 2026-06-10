@@ -16,3 +16,4 @@ Otra decisión importante fue revisar los errores en vez de copiar todo automát
 PARTE 3 – Qué aprendí
 
 Con este proyecto aprendí a crear una aplicación básica en React Native usando Expo, a manejar estados con useState y a trabajar con componentes nativos para construir interfaces móviles. También aprendí a resolver errores relacionados con Expo Go y a entender mejor cómo funcionan los eventos y validaciones en JavaScript. Además, entendí que la IA puede ayudar mucho para programar y resolver problemas, pero que igualmente es importante revisar el código, probarlo y entender qué hace cada parte antes de usarlo.
+<img width="1626" height="867" alt="image" src="https://github.com/user-attachments/assets/5c7a7d35-8086-4610-a419-87b80bf1c8f4" />
